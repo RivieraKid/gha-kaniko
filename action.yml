@@ -1,5 +1,5 @@
 # action.yml
-name: 'Kaniko Build'
+name: 'Kaniko Build Action'
 description: 'Greet someone and record the time'
 inputs:
   who-to-greet:  # id of input
