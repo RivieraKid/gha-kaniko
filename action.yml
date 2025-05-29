@@ -1,6 +1,7 @@
 # action.yml
 name: 'Kaniko Build Action'
 description: 'Greet someone and record the time'
+icon: 'life-buoy'
 inputs:
   who-to-greet:  # id of input
     description: 'Who to greet'
